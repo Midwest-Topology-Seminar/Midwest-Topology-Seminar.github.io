@@ -1,0 +1,726 @@
+[
+  {
+    "date": "May 9-10, 2026",
+    "year": "2026",
+    "institution": "Michigan State University",
+    "location": "Lansing, Michigan",
+    "url": "https://sites.google.com/view/mts-spring2026/home",
+    "posters": []
+  },
+  {
+    "date": "February 7-8, 2026",
+    "year": "2026",
+    "institution": "Case Western Reserve University",
+    "location": "Cleveland, Ohio",
+    "url": "https://sites.google.com/case.edu/mts-winter2026/home",
+    "posters": []
+  },
+  {
+    "date": "Fall 2025",
+    "year": "2025",
+    "institution": "University of Minnesota",
+    "location": "Minneapolis, Minnesota",
+    "url": null,
+    "posters": []
+  },
+  {
+    "date": "May 17-18, 2025",
+    "year": "2025",
+    "institution": "Indiana University Indianapolis",
+    "location": "Indianapolis, Indiana",
+    "url": "https://riveramanuel.com/midwest2025/",
+    "posters": []
+  },
+  {
+    "date": "March 14-16, 2025",
+    "year": "2025",
+    "institution": "University of Notre Dame",
+    "location": "Notre Dame, Indiana",
+    "url": "https://sites.nd.edu/stolzfest//",
+    "posters": []
+  },
+  {
+    "date": "Nov. 2-3, 2024",
+    "year": "2024",
+    "institution": "University of Chicago",
+    "location": "Chicago, Illinois",
+    "url": "https://math.uchicago.edu/~amathew/Midwest.html",
+    "posters": []
+  },
+  {
+    "date": "April 27, 2024",
+    "year": "2024",
+    "institution": "Indiana University",
+    "location": "Bloomington, Indiana",
+    "url": "https://mts.math.indiana.edu/2024/",
+    "posters": []
+  },
+  {
+    "date": "March 16-17, 2024",
+    "year": "2024",
+    "institution": "Loyola University Chicago",
+    "location": "Chicago, Illinois",
+    "url": "https://sites.google.com/view/mts-winter-2024/",
+    "posters": []
+  },
+  {
+    "date": "Sept 30 - Oct 1, 2023",
+    "year": "2023",
+    "institution": "University of Illinois, Urbana-Champaign",
+    "location": "Urbana, Illinois",
+    "url": "https://sites.google.com/view/mengguo/midwest2023FA",
+    "posters": []
+  },
+  {
+    "date": "April 29-30, 2023",
+    "year": "2023",
+    "institution": "Purdue University",
+    "location": "West Lafayette, Indiana",
+    "url": "https://riveramanuel.com/midwest2023/",
+    "posters": []
+  },
+  {
+    "date": "November 18, 2021",
+    "year": "2021",
+    "institution": "Online",
+    "location": "",
+    "url": "https://s.wayne.edu/mts2020/",
+    "posters": []
+  },
+  {
+    "date": "April 8, 2021",
+    "year": "2021",
+    "institution": "Online",
+    "location": "",
+    "url": "https://s.wayne.edu/mts2020/",
+    "posters": []
+  },
+  {
+    "date": "Oct. 8, 2020",
+    "year": "2020",
+    "institution": "Online",
+    "location": "",
+    "url": "https://s.wayne.edu/mts2020/midwest-topology-seminar-fall-2020/",
+    "posters": []
+  },
+  {
+    "date": "May 4, 2020",
+    "year": "2020",
+    "institution": "Online",
+    "location": "",
+    "url": "https://s.wayne.edu/mts2020/midwest-topology-seminar-spring-2020/",
+    "posters": []
+  },
+  {
+    "date": "Oct. 4-6, 2019",
+    "year": "2019",
+    "institution": "University of Chicago",
+    "location": "Chicago, Illinois",
+    "url": "https://nilesjohnson.net/mayday2019/",
+    "posters": []
+  },
+  {
+    "date": "May 18-19, 2019",
+    "year": "2019",
+    "institution": "Michigan State University",
+    "location": "Lansing, Michigan",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/S19/MTS_S19.html",
+    "posters": []
+  },
+  {
+    "date": "February 23, 2019",
+    "year": "2019",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "location": "Urbana, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/MTS_W19.html",
+    "posters": []
+  },
+  {
+    "date": "Sept 8-9, 2018",
+    "year": "2018",
+    "institution": "University of Kentucky",
+    "location": "Lexington, Kentucky",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/MTS_F18.html",
+    "posters": []
+  },
+  {
+    "date": "April 28, 2018",
+    "year": "2018",
+    "institution": "Indiana University",
+    "location": "Bloomington, Indiana",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/MTS_S18/MTSS18.html",
+    "posters": []
+  },
+  {
+    "date": "March 3, 2018",
+    "year": "2018",
+    "institution": "Northwestern University",
+    "location": "Evanston, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/MTS_W18.html",
+    "posters": []
+  },
+  {
+    "date": "November 11, 2017",
+    "year": "2017",
+    "institution": "Wayne State University",
+    "location": "Detroit, Michigan",
+    "url": "http://www.clas.wayne.edu/disaksen/Midwest-Topology-Seminar-Fall-2017",
+    "posters": []
+  },
+  {
+    "date": "May 13-14, 2017",
+    "year": "2017",
+    "institution": "University of Chicago",
+    "location": "Chicago, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/MTS_S17/MTS_S17.html",
+    "posters": []
+  },
+  {
+    "date": "February 11, 2017",
+    "year": "2017",
+    "institution": "University of Notre Dame",
+    "location": "Notre Dame, Indiana",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/MTS_W17/",
+    "posters": []
+  },
+  {
+    "date": "September 17-18, 2016",
+    "year": "2016",
+    "institution": "Purdue University",
+    "location": "West Lafayette, Indiana",
+    "url": "https://sites.google.com/site/jeremykennethmiller/midwestfall2016",
+    "posters": []
+  },
+  {
+    "date": "May 14, 2016",
+    "year": "2016",
+    "institution": "Ohio State University",
+    "location": "Columbus, Ohio",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/MTS_S16/",
+    "posters": []
+  },
+  {
+    "date": "February 6-7, 2016",
+    "year": "2016",
+    "institution": "Northwestern University",
+    "location": "Evanston, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/MTS_W16/MTS_W16.html",
+    "posters": []
+  },
+  {
+    "date": "October 10-11, 2015",
+    "year": "2015",
+    "institution": "Wayne State University",
+    "location": "Detroit, Michigan",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/MTS_F15/MTS_F15.html",
+    "posters": []
+  },
+  {
+    "date": "May 9-10, 2015",
+    "year": "2015",
+    "institution": "University of Chicago",
+    "location": "Chicago, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/MTS_S15/MTS_S15.html",
+    "posters": []
+  },
+  {
+    "date": "February 28, 2015",
+    "year": "2015",
+    "institution": "University of Illinois at Chicago",
+    "location": "Chicago, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/MTSW15.html",
+    "posters": []
+  },
+  {
+    "date": "October 25, 2014",
+    "year": "2014",
+    "institution": "Northwestern University",
+    "location": "Evanston, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/1410",
+    "posters": []
+  },
+  {
+    "date": "April 19, 2014",
+    "year": "2014",
+    "institution": "Indiana University-Purdue University Indianapolis",
+    "location": "Indianapolis, Indiana",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/1404/1404.html",
+    "posters": []
+  },
+  {
+    "date": "October 5-6, 2013",
+    "year": "2013",
+    "institution": "Wayne State University",
+    "location": "Detroit, Michigan",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/1310/",
+    "posters": []
+  },
+  {
+    "date": "May 11-12, 2013",
+    "year": "2013",
+    "institution": "University of Kentucky",
+    "location": "Lexington, Kentucky",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/MTS_S13",
+    "posters": []
+  },
+  {
+    "date": "February 23, 2013",
+    "year": "2013",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "location": "Urbana, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/MTS_W13.html",
+    "posters": []
+  },
+  {
+    "date": "October 27-28, 2012",
+    "year": "2012",
+    "institution": "Michigan State University",
+    "location": "East Lansing, Michigan",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/1210/",
+    "posters": []
+  },
+  {
+    "date": "April 28-29, 2012",
+    "year": "2012",
+    "institution": "Purdue University",
+    "location": "West Lafayette, Indiana",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/1204.html",
+    "posters": []
+  },
+  {
+    "date": "March 10, 2012",
+    "year": "2012",
+    "institution": "Northwestern University",
+    "location": "Evanston, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/1203.html",
+    "posters": []
+  },
+  {
+    "date": "October 8, 2011",
+    "year": "2011",
+    "institution": "Illinois State University",
+    "location": "Normal, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/1110.html",
+    "posters": []
+  },
+  {
+    "date": "April 2-3, 2011",
+    "year": "2011",
+    "institution": "University of Chicago",
+    "location": "Chicago, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/1104.html",
+    "posters": []
+  },
+  {
+    "date": "October 23, 2010",
+    "year": "2010",
+    "institution": "Wayne State University",
+    "location": "Detroit, Michigan",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/1010.html",
+    "posters": []
+  },
+  {
+    "date": "April 24, 2010",
+    "year": "2010",
+    "institution": "Northwestern University",
+    "location": "Evanston, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/1004.html",
+    "posters": []
+  },
+  {
+    "date": "February 6-7, 2010",
+    "year": "2010",
+    "institution": "University of Michigan",
+    "location": "Ann Arbor, Michigan",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/1002.html",
+    "posters": []
+  },
+  {
+    "date": "October 16-18, 2009",
+    "year": "2009",
+    "institution": "University of Chicago",
+    "location": "Chicago, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/0910.pdf",
+    "posters": [
+      "http://www.rrb.wayne.edu/MTS/archive/0910_mayday_poster.pdf"
+    ]
+  },
+  {
+    "date": "May 2-3, 2009",
+    "year": "2009",
+    "institution": "University of Minnesota",
+    "location": "Minneapolis, Minnesota",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/0905.html",
+    "posters": []
+  },
+  {
+    "date": "February 21, 2009",
+    "year": "2009",
+    "institution": "Purdue University",
+    "location": "West Lafayette, Indiana",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/0902.html",
+    "posters": []
+  },
+  {
+    "date": "May 3, 2008",
+    "year": "2008",
+    "institution": "Northwestern University",
+    "location": "Evanston, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/0805.html",
+    "posters": []
+  },
+  {
+    "date": "February 23, 2008",
+    "year": "2008",
+    "institution": "University of Notre Dame",
+    "location": "Notre Dame, Indiana",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/0802.html",
+    "posters": []
+  },
+  {
+    "date": "October 13, 2007",
+    "year": "2007",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "location": "Urbana, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/0710.html",
+    "posters": []
+  },
+  {
+    "date": "April 28-29 , 2007",
+    "year": "2007",
+    "institution": "Wayne State University",
+    "location": "Detroit, Michigan",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/0704.html",
+    "posters": []
+  },
+  {
+    "date": "February 24 , 2007",
+    "year": "2007",
+    "institution": "University of Illinois at Chicago",
+    "location": "Chicago, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/0702",
+    "posters": []
+  },
+  {
+    "date": "October 21-22, 2006",
+    "year": "2006",
+    "institution": "Indiana University",
+    "location": "Bloomington, Indiana",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/0611.html",
+    "posters": []
+  },
+  {
+    "date": "April 7-11, 2006",
+    "year": "2006",
+    "institution": "University of Chicago",
+    "location": "Chicago, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/0604.html",
+    "posters": []
+  },
+  {
+    "date": "April 16-17, 2005",
+    "year": "2005",
+    "institution": "University of Chicago",
+    "location": "Chicago, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/0504/0504.html",
+    "posters": []
+  },
+  {
+    "date": "February 26-27, 2005",
+    "year": "2005",
+    "institution": "Calvin College",
+    "location": "Grand Rapids, Michigan",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/0502/midwest.html",
+    "posters": []
+  },
+  {
+    "date": "October 9-10, 2004",
+    "year": "2004",
+    "institution": "Purdue University",
+    "location": "West Lafayette, Indiana",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/0410.pdf",
+    "posters": [
+      "http://www.rrb.wayne.edu/MTS/archive/CWFest.poster.jpg"
+    ]
+  },
+  {
+    "date": "May 1, 2004",
+    "year": "2004",
+    "institution": "Indiana University",
+    "location": "Bloomington, Indiana",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/0405.html",
+    "posters": []
+  },
+  {
+    "date": "February 21, 2004",
+    "year": "2004",
+    "institution": "Northwestern University",
+    "location": "Evanston, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/0402.html",
+    "posters": []
+  },
+  {
+    "date": "October 4, 2003",
+    "year": "2003",
+    "institution": "University of Wisconsin",
+    "location": "Madison, Wisconsin",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/0310.html",
+    "posters": []
+  },
+  {
+    "date": "April 22, 2003",
+    "year": "2003",
+    "institution": "University of Illinois at Urbana-Champaign",
+    "location": "Urbana, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/0304.html",
+    "posters": []
+  },
+  {
+    "date": "February 1, 2003",
+    "year": "2003",
+    "institution": "Purdue University Calumet",
+    "location": "Hammond, Indiana",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/0302.txt",
+    "posters": []
+  },
+  {
+    "date": "November 2, 2002",
+    "year": "2002",
+    "institution": "Western Michigan University",
+    "location": "Kalamazoo, Michigan",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/0211.html",
+    "posters": []
+  },
+  {
+    "date": "April 20, 2002",
+    "year": "2002",
+    "institution": "University of Chicago",
+    "location": "Chicago, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/0204.html",
+    "posters": []
+  },
+  {
+    "date": "February 23, 2002",
+    "year": "2002",
+    "institution": "University of Illinois at Chicago",
+    "location": "Chicago, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/0202.html",
+    "posters": []
+  },
+  {
+    "date": "November 10-11, 2001",
+    "year": "2001",
+    "institution": "Purdue University",
+    "location": "West Lafayette, Indiana",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/0111.html",
+    "posters": []
+  },
+  {
+    "date": "February 24, 2001",
+    "year": "2001",
+    "institution": "University of Illinois at Chicago",
+    "location": "Chicago, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/0102.html",
+    "posters": []
+  },
+  {
+    "date": "October 28-29, 2000",
+    "year": "2000",
+    "institution": "Indiana University",
+    "location": "Bloomington, Indiana",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/0010.html",
+    "posters": []
+  },
+  {
+    "date": "February 26-27, 2000",
+    "year": "2000",
+    "institution": "University of Chicago",
+    "location": "Chicago, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/0002.html",
+    "posters": []
+  },
+  {
+    "date": "October 23, 1999",
+    "year": "1999",
+    "institution": "Purdue University Calumet",
+    "location": "Hammond, Indiana",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/9910.html",
+    "posters": []
+  },
+  {
+    "date": "April 23-27, 1999",
+    "year": "1999",
+    "institution": "University of Chicago",
+    "location": "Chicago, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/N9904.html",
+    "posters": []
+  },
+  {
+    "date": "April 10, 1999",
+    "year": "1999",
+    "institution": "Northwestern University",
+    "location": "Evanston, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/9904.html",
+    "posters": []
+  },
+  {
+    "date": "February 13, 1999",
+    "year": "1999",
+    "institution": "University of Wisconsin",
+    "location": "Madison, Wisconsin",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/9902.html",
+    "posters": []
+  },
+  {
+    "date": "October 16-18,1998",
+    "year": "1998",
+    "institution": "University of Michigan",
+    "location": "Ann Arbor, Michigan",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/9808.html",
+    "posters": []
+  },
+  {
+    "date": "April 18, 1998",
+    "year": "1998",
+    "institution": "University of Illinois at Chicago",
+    "location": "Chicago, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/9804.pdf",
+    "posters": []
+  },
+  {
+    "date": "January 24, 1998",
+    "year": "1998",
+    "institution": "Northwestern University",
+    "location": "Evanston, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/9801.pdf",
+    "posters": []
+  },
+  {
+    "date": "December 6-7, 1997",
+    "year": "1997",
+    "institution": "",
+    "location": "",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/9712",
+    "posters": []
+  },
+  {
+    "date": "April 26, 1997",
+    "year": "1997",
+    "institution": "University of Notre Dame",
+    "location": "Notre Dame, Indiana",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/9704.pdf",
+    "posters": []
+  },
+  {
+    "date": "January 25, 1997",
+    "year": "1997",
+    "institution": "Northwestern University",
+    "location": "Evanston, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/9701.pdf",
+    "posters": []
+  },
+  {
+    "date": "October 12, 1996",
+    "year": "1996",
+    "institution": "Western Michigan University",
+    "location": "Kalamazoo, Michigan",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/9610",
+    "posters": []
+  },
+  {
+    "date": "April 26-30, 1996",
+    "year": "1996",
+    "institution": "University of Chicago",
+    "location": "Chicago, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/9604.pdf",
+    "posters": []
+  },
+  {
+    "date": "February 24, 1996",
+    "year": "1996",
+    "institution": "University of Illinois at Chicago",
+    "location": "Chicago, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/9602.pdf",
+    "posters": []
+  },
+  {
+    "date": "October 7, 1995",
+    "year": "1995",
+    "institution": "University of Notre Dame",
+    "location": "Notre Dame, Indiana",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/9509.pdf",
+    "posters": []
+  },
+  {
+    "date": "April 22, 1995",
+    "year": "1995",
+    "institution": "Northwestern University",
+    "location": "Evanston, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/9504.pdf",
+    "posters": []
+  },
+  {
+    "date": "February 25, 1995",
+    "year": "1995",
+    "institution": "University of Illinois at Chicago",
+    "location": "Chicago, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/9502.pdf",
+    "posters": []
+  },
+  {
+    "date": "December 3-4, 1994",
+    "year": "1994",
+    "institution": "Ohio State University",
+    "location": "Columbus, Ohio",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/9411.pdf",
+    "posters": []
+  },
+  {
+    "date": "October 8-9, 1994",
+    "year": "1994",
+    "institution": "Wayne State University",
+    "location": "Detroit, Michigan",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/9410",
+    "posters": []
+  },
+  {
+    "date": "May 27 - June 1, 1994",
+    "year": "1994",
+    "institution": "University of Chicago",
+    "location": "Chicago, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/9404.pdf",
+    "posters": []
+  },
+  {
+    "date": "February 19, 1994",
+    "year": "1994",
+    "institution": "Northwestern University",
+    "location": "Evanston, Illinois",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/9401.pdf",
+    "posters": []
+  },
+  {
+    "date": "November 6, 1993",
+    "year": "1993",
+    "institution": "Purdue University",
+    "location": "West Lafayette, Indiana",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/9311.pdf",
+    "posters": []
+  },
+  {
+    "date": "April 17, 1993",
+    "year": "1993",
+    "institution": "University of Notre Dame",
+    "location": "Notre Dame, Indiana",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/9304.pdf",
+    "posters": []
+  },
+  {
+    "date": "May 1-3, 1981",
+    "year": "1981",
+    "institution": "Purdue University",
+    "location": "West Lafayette, Indiana",
+    "url": "http://www.rrb.wayne.edu/MTS/archive/8105.html",
+    "posters": []
+  }
+]
