@@ -1,0 +1,3 @@
+# Snapshot assets must be tracked even when repository-wide patterns exclude their names.
+!*
+!*/

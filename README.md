@@ -29,3 +29,7 @@ Original sources:
 ## Preview
 
 Run `python3 -m http.server 8000` in this folder and open http://localhost:8000/.
+
+## Local copies of archive targets
+
+The archive page now links to saved copies of targets under `www.rrb.wayne.edu/MTS/`. Other hosts keep their original links and also have an “archive version” link. Copies are in `archive/snapshots/`; see its README and manifest for source URLs and capture limitations. `.nojekyll` ensures GitHub Pages serves the saved asset directories, including names beginning with underscores.

@@ -1,0 +1,205 @@
+
+                       OSU GEOMETRY - TOPOLOGY
+                                 CONFERENCE
+
+                             Columbus, Ohio
+
+                          December 6-7, 1997
+
+
+All lectures in EA160
+
+Saturday December 6
+
+9:30-10:00 COFFEE MW 724
+
+10:00 a.m. - 11:00 a.m.
+Janos Kollar (University of Utah)
+Title : Real Algebraic Varieties
+
+11:30 a.m. - 12:30 p.m.
+Noel Brady (Cornell Univ.)
+Title: Combing Kernels of Right-angled Artin Groups
+
+2:00 p.m. - 3:00 p.m.
+Mikhail Kapranov (Northwestern Univ.)
+Title : Rozansky-Witten invariant
+
+3:00-3:30 p.m. COFFEE MW 724
+
+3:30 p.m. - 4:30 p.m.
+Thang Le (SUNY, Buffalo)
+Title : Relation Between Finite Type and Quantum Invariants of 3-Manifolds
+
+Banquet 6:30 p.m.
+
+Party 8:30 p.m.
+
+Sunday December 7
+
+9:00-10:00 a.m.
+Harold G. Donnelly (Purdue University)
+Title: Dirichlet Problem for Harmonic Maps
+
+10:30-11:30 a.m.
+Bruce Kleiner (Univ. Pennsylvania)
+Title: Ideal Boundary of Hadamard Spaces
+
+
+
+For more information contact: Dan Burghelea, burghele@math.ohio-state.edu
+
+See also announcement on OSU Math. Dept. Web Page:
+ http://www.math.ohio-state.edu/Announcements/GeometryTopologyConf.html
+
+For more information about Ohio State see: www.ohio-state.edu
+
+
+
+For accommodations call: The Red Roof Inn, Ackerman Rd. (take
+Ackerman exit East off of State Route 315 ) 614-267-9941,
+614-777-1070;
+
+Holiday Inn, 328 W Lane Av (Lane exit East off of SR315), 614-294-4848
+
+Red Roof is cheaper (long walking distance)
+
+Holiday Inn is closer (but more expensive)
+
+(Other hotels are listed in the web page announcement.)
+
+Funding: There should be some support for graduate students available
+=========================================================================
+Date:         Wed, 17 Dec 1997 08:04:11 -0500
+Reply-To:     Midwestern Topology Seminar Discussions <MWTOPSEM@VMA.CC.ND.EDU>
+Sender:       Midwestern Topology Seminar Discussions <MWTOPSEM@VMA.CC.ND.EDU>
+From:         laurence taylor <taylor@laotse.helios.nd.edu>
+Subject:      Winter Midwest
+
+\toks0{%%  Plain TEX
+
+     MIDWEST TOPOLOGY SEMINAR
+           (first announcement)
+               January 24, 1998
+         Northwestern University
+
+
+ 9:30-10:00AM Coffee
+
+
+ 10:00-11:00 John Palmieri, University of Notre Dame
+ Title: "Stable homotopy over a p-group"
+
+
+ 11:30-12:30 Igor Kriz, University of Michigan
+ Title: "Toward a geometric construction of elliptic cohomology"
+
+
+ Lunch
+
+
+ 2:30-3:30 Ian Hambleton, McMasters University
+ Title: "Controlled topology, class numbers, and non-linear similarity"
+
+
+ 4:00-5:00 Vladimir Voevodsky, Northwestern University
+ Title: "TBA"
+
+
+ Party 5:30
+
+ All talks will be in Coon Forum located in Leverone Building
+ immediately south of Lunt Building, the Math Department.
+ For more information contact Stewart Priddy, priddy@math.nwu.edu
+ or Mark Mahowald, mark@math.nwu.edu.
+
+}
+ \footline{}
+\let\v=\vskip
+\def\l{\long\def}
+\def\c#1{\centerline{{\bf #1}}}
+\parindent=0pt
+\l\x#1M#2R{\c{M#2R}\f}
+\l\f#1(#2){\c{(#2)}\FF}
+\l\FF#1J#298{\c{J#298}\g}
+\l\g#19#2ee{\vskip10pt{9#2ee}\vskip10pt\h}
+\l\h#11#2T#3"#4"{{1#2\par\hskip40pt T#3{\sl#4}}\vskip10pt\i}
+\l\i#11#2T#3"#4"{{1#2\par\hskip40pt T#3{\sl#4}}\vskip10pt\j}
+\l\j#1L#2h{L#2h\vskip10pt\k}
+\l\k#12#2T#3"#4"{{2#2\par\hskip40pt T#3{\sl#4}}\vskip10pt\s}
+\l\s#14#2T#3"#4"{{4#2\par\hskip40pt T#3{\sl#4}}\vskip10pt\t}
+\l\t#1P#20{P#20\vskip20pt}
+
+\expandafter\x\the\toks0
+\end
+
+
+
+
+
+Sent Tue Dec 16 16:58:45 EST 1997
+=========================================================================
+Date:         Sat, 27 Dec 1997 11:44:38 -0500
+Reply-To:     Midwestern Topology Seminar Discussions <MWTOPSEM@VMA.CC.ND.EDU>
+Sender:       Midwestern Topology Seminar Discussions <MWTOPSEM@VMA.CC.ND.EDU>
+From:         laurence taylor <taylor@laotse.helios.nd.edu>
+Subject:      Winter Midwest, second announcement
+
+\toks0{%%  Plain TEX
+
+     MIDWEST TOPOLOGY SEMINAR
+           (second announcement)
+               January 24, 1998
+         Northwestern University
+
+
+ 9:30-10:00AM Coffee
+
+
+ 10:00-11:00 John Palmieri, University of Notre Dame
+ Title: "Stable homotopy over a p-group"
+
+
+ 11:30-12:30 Igor Kriz, University of Michigan
+ Title: "Toward a geometric construction of elliptic cohomology"
+
+
+ Lunch
+
+
+ 2:30-3:30 Ian Hambleton, McMasters University
+ Title: "Controlled topology, class numbers, and non-linear similarity"
+
+
+ 4:00-5:00 Vladimir Voevodsky, Northwestern University
+ Title: "Classifying spaces of finite groups from algebro-geometrical point of
+     view"
+
+
+ Party 5:30
+
+ All talks will be in Coon Forum located in Leverone Building
+ immediately south of Lunt Building, the Math Department.
+ For more information contact Stewart Priddy, priddy@math.nwu.edu
+ or Mark Mahowald, mark@math.nwu.edu.
+
+}
+ \footline{}
+\let\v=\vskip
+\def\l{\long\def}
+\def\c#1{\centerline{{\bf #1}}}
+\parindent=0pt
+\l\x#1M#2R{\c{M#2R}\f}
+\l\f#1(#2){\c{(#2)}\FF}
+\l\FF#1J#298{\c{J#298}\g}
+\l\g#19#2ee{\vskip10pt{9#2ee}\vskip10pt\h}
+\l\h#11#2T#3"#4"{{1#2\par\hskip40pt T#3{\sl#4}}\vskip10pt\i}
+\l\i#11#2T#3"#4"{{1#2\par\hskip40pt T#3{\sl#4}}\vskip10pt\j}
+\l\j#1L#2h{L#2h\vskip10pt\k}
+\l\k#12#2T#3"#4"{{2#2\par\hskip40pt T#3{\sl#4}}\vskip10pt\s}
+\l\s#14#2T#3"#4"{{4#2\par\hskip40pt T#3{\sl#4}}\vskip10pt\t}
+\l\t#1P#20{P#20\vskip20pt}
+
+\expandafter\x\the\toks0
+\end
+

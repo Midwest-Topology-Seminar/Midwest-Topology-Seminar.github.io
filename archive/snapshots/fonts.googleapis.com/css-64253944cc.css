@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 100;
+  src: url("../fonts.gstatic.com/s/bitter/v42/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbeOLjOWA.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts.gstatic.com/s/bitter/v42/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8ajfOLjOWA.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts.gstatic.com/s/bitter/v42/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOLjOWA.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Bitter';
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts.gstatic.com/s/bitter/v42/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8RHYOLjOWA.ttf") format('truetype');
+}

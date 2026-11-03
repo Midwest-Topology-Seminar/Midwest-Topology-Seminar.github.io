@@ -1,0 +1,195 @@
+* { margin: 0; padding: 0; }
+
+body {
+    background-color: white;
+    color: black;
+    font: 14px Verdana, Arial, sans-serif;
+    border-top: 4px solid #767676;
+}
+
+a { color: #800000; text-decoration: none;}
+a:hover { color: #8f3931; }
+
+sub {  font-size: .8em; line-height: 0; }
+sup {  font-size: .8em;  vertical-align: super;    line-height: 0; }
+
+h2,h3,h4 { font-weight: normal; }
+
+#topbar, #bottombar {
+    padding: 0.3em 0.5em;
+    list-style-type: none;
+~    overflow: hidden;
+    font-size: 12px;
+}
+#topbar {
+    height: 60px;
+    border-top: 2px solid #767676;
+    text-align: right;
+    text-transform: lowercase;
+    line-height: 18px;
+}
+#topbar #logo { float: left; height: 80px;}
+#logo a {
+    display: block;
+    overflow: hidden;
+    text-indent: 9000px;
+    background: url("http://www.rrb.wayne.edu/MTS/archive/MTS_S15/img/logo.jpg") 3px 3px no-repeat;
+    width: 220px;
+    height: 100px;
+}
+#bottombar {
+    margin-top: 15em;
+    border-bottom: 2px solid #767676;
+    list-style-type: none;
+}
+#bottombar li { 
+    float: left;
+    padding-right: 7px;
+}
+#bottombar li+li { border-left: 1px solid #aaa; padding-left: 7px; }
+
+#content { 
+    margin: 0 auto;
+    width: 550px;
+}
+
+#header { 
+    margin-top: 0px;
+    text-align: center;
+}
+#header h1 { font-size: 34px; }
+#nav { 
+    list-style-type: none;
+    width: 516px;
+    margin: 20px auto;
+    overflow: hidden;
+}
+#nav a {
+    padding: 4px 0;
+    font-weight: bold;
+    margin: 0 1px;
+    border-top: 1px solid #767676;
+    border-bottom: 1px solid #767676;
+    float: left;
+    width: 170px;
+}
+#nav .active a,
+#nav a:hover { 
+    color: #622;
+    background: #f8f8f8;
+}
+
+#content>h1 { 
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+p { margin-bottom: 10px; }
+h2 { 
+    text-transform: uppercase;
+    font: normal 16px Georgia;
+    text-align: center;
+    letter-spacing: 2px;
+    margin: 30px 0 10px;
+}
+h2 a { 
+    color: #666;
+    padding-right: 17px;
+    background: url("http://www.rrb.wayne.edu/MTS/archive/MTS_S15/img/minus.gif") right 5px no-repeat;
+}
+.blank h2 a { background-image: url("http://www.rrb.wayne.edu/MTS/archive/MTS_S15/img/plus.gif"); }
+
+.semester.blank .talks { display: none; }
+
+.talks { list-style-type: none; }
+.talks>li { 
+    margin-bottom: 45px;
+    line-height: 20px;
+    min-height: 55px;
+}
+.talks h3 { 
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+.talks h3 span { font-size: 16px; } /* institution */
+.talks h4 { 
+    font-size: 18px;
+    margin-bottom: 10px;
+    line-height: 25px;
+}
+.talks h4 a { 
+    color: black;
+    outline: none;
+    padding-right: 17px;
+    background: url("http://www.rrb.wayne.edu/MTS/archive/MTS_S15/img/minus.gif") right 8px no-repeat;
+}
+.talks .hidden h4 a { background-image: url("http://www.rrb.wayne.edu/MTS/archive/MTS_S15/img/plus.gif"); }
+
+.meta { list-style-type: none; }
+.date { 
+    float: left;
+    margin-left: -85px;
+    margin-top: -4px;
+    padding: 5px;
+    background: #f8f8f8;
+    color: #888;
+    font-size: 14px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    text-align: right;
+}
+.date b { 
+    display: block;
+    font-weight: normal;
+    color: #666;
+    font-size: 16px;
+    line-height: 22px;
+}
+.meta .calendar,
+.meta .poster { 
+    float: right;
+    margin: -2px 5px 0 0;
+}
+.meta .calendar a,
+.meta .poster a { 
+    display: block;
+    text-indent: 9000px;
+    overflow: hidden;
+    width: 20px;
+    height: 20px;
+}
+.meta .calendar a { background: url("http://www.rrb.wayne.edu/MTS/archive/MTS_S15/img/calendar-gray.gif") 0 1px no-repeat; } 
+.meta .calendar a:hover { background-image: url("http://www.rrb.wayne.edu/MTS/archive/MTS_S15/img/calendar.gif"); }
+.meta .poster a { background: url("http://www.rrb.wayne.edu/MTS/archive/MTS_S15/img/pdf-gray.gif") 0 0 no-repeat; }
+.meta .poster a:hover { background-image: url("http://www.rrb.wayne.edu/MTS/archive/MTS_S15/img/pdf.gif"); }
+
+.abstract p { margin-bottom: 10px; }
+.hidden .abstract { display: none; }
+
+td.special {
+   padding-left:30pt;
+}
+
+.special { 
+    font: italic 14px Georgia;
+    color: #666;
+    margin: 0 0 10px 15px;
+}
+
+td {
+   padding-right: 10pt;
+   padding-top: 5pt;
+}
+
+td.datetitle {
+   padding-top: 15pt;
+   font-weight: bold;
+   bgcolor: blue;
+   text-align: center;
+}
+
+.speakers td {
+   text-align: left;
+   width: 600pt;
+}

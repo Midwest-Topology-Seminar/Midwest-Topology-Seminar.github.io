@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts.gstatic.com/s/librefranklin/v20/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhLsWkANDM.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts.gstatic.com/s/librefranklin/v20/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhycKkANDM.ttf") format('truetype');
+}
+@font-face {
+  font-family: 'Sumana';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts.gstatic.com/s/sumana/v12/4UaDrE5TqRBjGj-29xLm.ttf") format('truetype');
+}

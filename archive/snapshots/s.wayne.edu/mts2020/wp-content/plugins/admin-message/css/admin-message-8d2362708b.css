@@ -1,0 +1,225 @@
+/**
+ * Featherlight - ultra slim jQuery lightbox
+ * Version 1.5.0 - http://noelboss.github.io/featherlight/
+ *
+ * Copyright 2016, Noël Raoul Bossart (http://www.noelboss.com)
+ * MIT Licensed.
+**/
+@media all{.featherlight{display:none;position:fixed;top:0;right:0;bottom:0;left:0;z-index:2147483647;text-align:center;white-space:nowrap;cursor:pointer;background:rgba(0,0,0,.65)}.featherlight:last-of-type{background:rgba(0,0,0,.65)}.featherlight:before{content:'';display:inline-block;height:100%;vertical-align:middle;margin-right:-.25em}.featherlight .featherlight-content{position:relative;text-align:left;vertical-align:middle;display:inline-block;overflow:auto;padding:25px 25px 0;border-bottom:25px solid transparent;margin-left:5%;margin-right:5%;max-height:95%;background:#fff;cursor:auto;white-space:normal}.featherlight .featherlight-inner{display:block}.featherlight .featherlight-close-icon{position:absolute;z-index:9999;top:0;right:0;line-height:25px;width:25px;cursor:pointer;text-align:center;font-family:Arial,sans-serif;background:#fff;background:rgba(255,255,255,.3);color:#000}.featherlight .featherlight-image{width:100%}.featherlight-iframe .featherlight-content{border-bottom:0;padding:0}.featherlight iframe{border:0}.featherlight *{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}}@media only screen and (max-width:1024px){.featherlight .featherlight-content{margin-left:10px;margin-right:10px;max-height:98%;padding:10px 10px 0;border-bottom:10px solid transparent}}
+
+/* Pop Up Styling */
+.featherlight.admin-message-popup-holder{
+	background:rgba(35,40,45,.8);
+	cursor: default;
+}
+.admin-message-popup-holder .featherlight-content {
+	padding: 0px;
+	border-bottom: none;
+}
+.admin-message-popup:not(.admin-message-notice-pure) {
+	border-left-width: 12px;
+	border-left-style: solid;
+}
+.admin-message-popup {
+	background: #fff;
+	padding: 30px 37px 28px 27px;
+	display: none;
+}
+.admin-message-popup i {
+	font-size: 25px;
+	width: 25px;
+    height: 25px;
+}
+
+@media screen and (min-width: 600px) {
+	.admin-message-popup {
+		min-width: 400px;
+	}
+}
+
+/*Inline Front-End Styling */
+.admin-message-bottom-corner-holder {
+	z-index: 999999;
+	position: fixed;
+	bottom: 0;
+	right: 25px;
+	-webkit-box-shadow: 0 0px 2px 2px rgba( 0, 0, 0, 0.1 );
+	box-shadow: 0 0px 2px 1px rgba( 0, 0, 0, 0.07 );
+}
+.admin-message-header-holder {
+	position: fixed;
+	top: 32px;
+	left: 50%;
+	z-index: 999999;
+	-webkit-box-shadow: 0 0px 2px 2px rgba( 0, 0, 0, 0.1 );
+	box-shadow: 0 0px 2px 1px rgba( 0, 0, 0, 0.07 );
+	min-width: 220px;
+	margin-left: -110px;
+}
+.admin-message-notice:not(.admin-message-notice-pure) {
+	border-left-width: 4px;
+	border-left-style: solid;
+}
+.admin-message-notice {
+	background: #fff;
+	padding: 1px 12px;
+	font-family: "Open Sans", sans-serif;
+	position: relative;
+}
+.admin-message-notice.admin-message-is-dismissible {
+	padding-right: 40px;
+}
+.admin-message-bottom-corner-holder .admin-message-notice.admin-message-has-icon {
+	padding-left: 27px;
+}
+.admin-message-bottom-corner-holder .admin-message-notice .admin-message-dashicon {
+	position: absolute;
+	left: 5px;
+
+}
+@media screen and (max-width: 782px) {
+	body.admin-bar .admin-message-header-holder {
+		top: 46px;
+	}
+	.admin-message-header-holder {
+		margin-left: 0px !important;
+	}
+	.admin-message-bottom-corner-holder {
+		bottom: 10px;
+	}
+	.admin-message-bottom-corner-holder, .admin-message-header-holder {
+		left: 10px;
+		right: 10px;
+	}
+}
+
+/* We show only last message, this makes it work for cached front end*/
+.admin-message-holder .admin-message.admin-message-is-dismissible {
+	display: none;
+}
+.admin-message-holder .admin-message.admin-message-is-dismissible:last-of-type {
+	display: block;
+}
+.admin-message-notice-dismiss {
+	position: absolute;
+	top: 0;
+	right: 1px;
+	border: none;
+	margin: 0;
+	padding: 9px;
+	background: none;
+	color: #b4b9be;
+	cursor: pointer;
+}
+.admin-message-notice-dismiss:before {
+	background: none;
+	color: #b4b9be;
+	content: "\f153";
+	display: block;
+	font: normal 16px/20px dashicons;
+	speak: none;
+	height: 20px;
+	text-align: center;
+	width: 20px;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.admin-message-notice-dismiss:hover:before,
+.admin-message-notice-dismiss:active:before,
+.admin-message-notice-dismiss:focus:before {
+	color: #c00;
+}
+.admin-message-notice-dismiss:focus {
+	outline: none;
+	-webkit-box-shadow: 0 0 0 1px #5b9dd9, 0 0 2px 1px rgba(30, 140, 190, .8);
+	box-shadow: 0 0 0 1px #5b9dd9, 0 0 2px 1px rgba(30, 140, 190, .8);
+}
+
+/*Top/Footer Bar Styling */
+.admin-message-holder.admin-message-header-bar-holder, 
+.admin-message-holder.admin-message-footer-bar-holder {
+	position: absolute;
+	width: 100%;
+	z-index: 9991;
+}
+.admin-message-holder.admin-message-header-bar-holder {
+	top: 0px;
+}
+.admin-message-holder.admin-message-footer-bar-holder {
+	bottom: 0px;
+}
+.admin-message-holder.admin-message-header-bar-holder.admin-message-bar-floating,
+.admin-message-holder.admin-message-footer-bar-holder.admin-message-bar-floating {
+	position: fixed;
+	z-index: 9990;
+}
+
+/* General styling */
+.admin-message-header-holder .admin-message-notice:not(.admin-message-notice-pure), .admin-message-header-bar-holder .admin-message-notice:not(.admin-message-notice-pure) {
+	border-left: none;
+	border-bottom-width: 4px;
+	border-bottom-style: solid ;
+}
+.admin-message-footer-bar-holder .admin-message-notice:not(.admin-message-notice-pure) {
+	border-left: none;
+	border-top-width: 4px;
+	border-top-style: solid ;
+}
+
+.admin-message-content {
+	color: #444;
+	text-align: left;
+}
+.admin-message-content p {
+	margin: 0.5em 0;
+	padding: 2px;
+	font-size: 13px;
+}
+
+.admin-message-content:after {
+	clear: both;
+}
+.admin-message-content i {
+	margin-right: 5px;
+}
+
+.admin-message-notice-warning {
+	border-color: #ffb900;
+}
+.admin-message-notice-warning.admin-message-notice-alt {
+	background-color: #fff8e5;
+}
+
+.admin-message-notice-error {
+	border-color: #dc3232;
+}
+.admin-message-notice-error.admin-message-notice-alt {
+	background-color: #fbeaea;
+}
+
+.admin-message-notice-info {
+	border-color: #00a0d2;
+}
+.admin-message-notice-info.admin-message-notice-alt {
+	background-color: #e5f5fa;
+}
+.admin-message-notice-success {
+	border-color: #46b450;
+}
+.admin-message-notice-success.admin-message-notice-alt {
+	background-color: #ecf7ed;
+}
+
+.admin-message-screen-reader-text {
+	border: 0;
+	clip: rect(1px, 1px, 1px, 1px);
+	-webkit-clip-path: inset(50%);
+	clip-path: inset(50%);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	width: 1px;
+	word-wrap: normal !important;
+}

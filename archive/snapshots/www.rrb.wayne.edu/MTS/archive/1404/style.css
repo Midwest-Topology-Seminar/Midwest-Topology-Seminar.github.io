@@ -1,0 +1,227 @@
+/* IU Branding Colors
+
+IU Crimson:  #7D110C
+IU Cream:    #E1D8B7
+IU Steel:    #82786F
+IU Limestone:#AEA79F
+IU Mahogany: #4A3C31
+IU Old Gold: #C59217
+Branding says:
+"UPUI uses crimson and black with gold as an accent. The Purdue schools at IUPUI are represented only by the IUPUI black. 
+In instances where IU cream is impractical or not available, white may be used."
+
+But this is not reflected on the Math Dept website.
+
+Color scheme IU Gold Combination:
+ 40% IU Crimson
+ 35% IU Gold
+ 15% IU Mahogony
+ 10% IU Cream
+(Presumably this refers to foreground and background is white?)
+*/
+
+body {
+    font-family: Verdana, arial, helvetica, sans-serif;
+    min-width: 54em;
+    color: #FFF;
+    color: #C59217;
+    background-color: #4A3C31;
+    background-color: #000;
+}
+
+a {color: #7D110C;}
+a:visited {color: #7D110C;}
+a.plain { color: #000; text-decoration: none;}
+a:hover {color: #C59217; text-decoration: underline}
+a:active {color: #C59217; text-decoration: underline}
+
+div.title {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    margin-top: .125em;
+    margin-bottom: .25em;
+}
+
+div.subtitle {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: .25em;
+}
+
+div.mainmenu {
+    font-family: "BentonSansCondensedRegular", "Arial Narrow", Arial, Helvetica, sans-serif;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+div.mainmenu ul {
+    padding:0;
+    margin:0;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline;
+    list-style-type:none;
+    overflow:hidden;
+}
+
+div.mainmenu li {
+    float:left;
+    background-color: #7D110C;
+    text-align: center;
+}
+
+div.mainmenu li a {
+    padding: 3px;
+    line-height: 1.5em;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: .25em;
+    color: #E1D8B7;
+}
+
+div.mainmenu li a:hover {
+    background-color: #990000;
+    color: #fff;
+}
+
+input.hide {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 0;
+    text-color: #E1D8B7;
+    background-color: #E1D8B7;
+}
+
+.extraspace {
+    margin-top: 1em;
+}
+
+span.left {
+    text-align: left;
+    padding-right:1em;
+}
+
+span.center {
+    text-align: center;
+/*    padding-left:1em; */
+/*   padding-right:1em; */
+}
+
+span.right {
+    text-align: right;
+    padding-left:1em;
+}
+
+div.main {
+/*  For fixed size main box:
+    width: 960px;  
+    margin-left: auto
+    margin-right: auto
+*/
+    margin-left: 4em;
+    margin-right: 4em;
+    margin-top: 1em;
+    padding: 2em;
+    color: #000;
+    background-color: #E1D8B7;
+    border-radius: 2em;
+} 
+
+div.main h2 a {
+    color: #000;
+    text-decoration: none;
+}
+
+div.main h2 a:hover,a:active {
+    color: #C59217;
+    text-decoration: underline;
+}
+
+div.main ul {
+    padding-left: 2.75em;
+}
+
+div.main ul.speakers {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 0;
+    list-style-type:none;
+    }
+div.main ul.speakers li {
+    margin-left: 1.5em;
+    padding-bottom: .125em;
+}
+
+
+form dl,p {
+    margin-left: 1.5em
+}
+
+form dt {
+    margin-top: 1em;
+    margin-bottom: .25em;
+    font-weight: bold;
+}
+
+form dt:first-child {
+    margin-top: 0;
+}
+
+div.participants{
+    margin-top:1em;
+    margin-bottom:1em;
+}
+
+div.participants p {
+    margin-top: .25em;
+    margin-bottom: .25em;
+    margin-left: 4em;
+    text-indent: -1.5em;
+    padding:0;
+}
+
+div.schedule {
+    margin: 0em 2em;
+    background-color: white;
+    padding: 1ex .5em;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+}
+
+div.schedule td:first-child {
+    text-align: right;
+    vertical-align: top;
+    padding-right: .5em;
+}
+
+div.abstract {
+    margin: 1.5em 2em;
+    padding: 1em;
+    background-color: white;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+}
+
+div.abstract:first-child {
+    margin-top: 0em;
+}
+
+div.abstract div {
+    margin: 1em 0em;
+    text-align: center;
+    font-size: 1.25em
+}
+
+
+div.abstract div:first-child {
+    margin: 0em;
+    font-style:italic;
+    font-size: 1.5em
+}
+
+
